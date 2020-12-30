@@ -3,8 +3,9 @@
 💾 Preview it here: [Survey Form](https://ecc-survey-form.netlify.app) 
 <br>
 <br>
+<img src="https://pro2-bar-s3-cdn-cf3.myportfolio.com/f39ec908-8957-4c67-a6b7-e3bc528bb6e2/e416bf83-64f8-4dbe-a7ae-17f9589a4e68_rw_1920.png?h=e2ce48a1ed0320ebcbb4b75cb7930865">
 
-<strong>Objective:</strong> Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/VPaoNP.
+<strong>Objective:</strong>
 
 Fulfill the below user stories and get all of the tests to pass. Give it your own personal style.
 
